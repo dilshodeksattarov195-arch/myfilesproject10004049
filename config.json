@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecetch",
+        "uuid": 10584086,
+        "checksum": "1aunmh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
